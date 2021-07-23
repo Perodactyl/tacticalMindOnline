@@ -1,0 +1,22 @@
+{
+  "name": "tacticalmind",
+  "version": "1.0.0",
+  "description": "Tactical Mind in the browser",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "node server/server.js"
+  },
+  "keywords": [
+    "strategy",
+    "game",
+    "tactical",
+    "websocket",
+    "ws",
+    "multiplayer"
+  ],
+  "author": "Perodactyl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
